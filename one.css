@@ -1,0 +1,99 @@
+.back{
+    padding:10px;
+}
+.first{
+    padding:10px;
+}
+.background-image{
+    background-image:url("https://wallpapercave.com/wp/wp5240556.jpg");
+    background-size:cover;
+    height:100vh;
+    width:100%;
+    text-align:center;
+    color:ivory;
+    padding:15px;
+}
+#header2{
+    font-family:cursive,sans-serif;
+}
+#para-text{
+    text-align:bottom;
+    color:lavender;
+    font-size:10px;
+    padding:15px;
+
+}
+.img1{
+   height:150px;
+   width:200px; 
+   
+
+
+}
+.text{
+    font-size:15px;
+}
+
+
+#navitem1{
+    color:rgb(12, 0, 0);
+}
+#navitem2{
+    color:rgb(12, 0, 0);
+}
+#navitem3{
+    color:rgb(12, 0, 0);
+}
+#navitem4{
+    color:rgb(12, 0, 0);
+}
+
+.background_next_page{
+    background-color:rgb(217, 206, 206);
+    background-size: cover;
+    height:100vh;
+}
+.image1{
+   border-radius: 33px;
+   height:128px;
+   width:178px;
+   padding-top:10px;
+
+    
+}
+
+.card_next_page{
+    background-color:rgb(165, 45, 45);
+    margin-top:12px;
+    padding:13px;
+    width:210px;
+    height:222px;
+    text-align:center;
+    margin:12px;
+    box-shadow:high;
+
+}
+.next_page{
+    height:1000%;
+    background-color:rgb(220, 227, 234);
+    
+    padding-left:78px;
+
+}
+.card_body{
+    background-color:rgb(251, 253, 253);
+    height:255px;
+    width:200px;
+    margin:15px;
+    color:rgb(222, 167, 16);
+    text-align:center;
+    
+
+}
+.btun{
+    padding-left:32px;
+    padding-bottom:14px;
+}
+.ss{
+    text-align:center;
+}
